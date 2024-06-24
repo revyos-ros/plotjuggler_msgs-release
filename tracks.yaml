@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/plotjuggler_msgs-release
 tracks:
   eloquent:
     actions:
